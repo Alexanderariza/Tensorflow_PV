@@ -34,6 +34,13 @@ We also calculate the learning loss or learning level of the model, in order to 
 
 <img src='./img/4.JPG' alt='Logo Head' align='center' width='50%'></img>
 
+## The model contains:
+
+The model architecture, used by TensorFlow.js 
+* [library:](https://github.com/Alexanderariza/Tensorflow_PV/blob/main/model.json)
+* [the model metadata, for example class labels and version of library:](https://github.com/Alexanderariza/Tensorflow_PV/blob/main/metadata.json)
+* [TensorFlow.js binary file containing the model weights:](https://github.com/Alexanderariza/Tensorflow_PV/blob/main/weights.bin)
+
 ## Example link:
 
 **[script OPS](https://teachablemachine.withgoogle.com/models/NSo_FKt9i/)**
