@@ -14,7 +14,7 @@ The model is based on a series of images from [IP](https://es.wikipedia.org/wiki
 ## How does it work:
 
 <img src='./img/1.jpg' alt='how' align='center' width='70%'></img>
-<br>
+
 
 The model is based on a series of images from [IP](https://es.wikipedia.org/wiki/C%C3%A1mara_IP) video cameras (video) located in-situ, which serve to train a model of **[IA](https://towardsdatascience.com/search?q=Artificial%20inteligent)** which performs for each dataset an analysis on more than 10,000 images. This allows to classify in real time the progress of the construction activities in 3 phases or stages of the PV photovoltaic project.
 * 1. PHASE 1. Poles and Base works
@@ -24,18 +24,17 @@ The model is based on a series of images from [IP](https://es.wikipedia.org/wiki
 The model can calculate the pressure for each class, in order to adjust the training images as needed:
 
 <img src='./img/2.jpg' alt='class' align='center' width='70%'></img>
-<br>
+
 
 During training we calculate the accuracy or classification percentage of the model. Assuming only results above 0.70:
 
 <img src='./img/3.jpg' alt='class' align='center' width='70%'></img>
 
-## Example link:
-
-**[script OPS](https://teachablemachine.withgoogle.com/models/NSo_FKt9i/)**
-<br>
-
 We also calculate the learning loss or learning level of the model, in order to predict the correct classification for the data set: 
 
 <img src='./img/4.jpg' alt='class' align='center' width='70%'></img>
+
+## Example link:
+
+**[script OPS](https://teachablemachine.withgoogle.com/models/NSo_FKt9i/)**
 <br>
