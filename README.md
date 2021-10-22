@@ -29,6 +29,10 @@ The model can calculate the pressure for each class, in order to adjust the trai
 During training we calculate the accuracy or classification percentage of the model. Assuming only results above 0.70:
 
 <img src='./img/3.jpg' alt='class' align='center' width='70%'></img>
+
+## Example link:
+
+**[script OPS](https://teachablemachine.withgoogle.com/models/NSo_FKt9i/)**
 <br>
 
 We also calculate the learning loss or learning level of the model, in order to predict the correct classification for the data set: 
