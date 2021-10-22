@@ -23,16 +23,16 @@ The model is based on a series of images from [IP](https://es.wikipedia.org/wiki
 
 The model can calculate the pressure for each class, in order to adjust the training images as needed:
 
-<img src='./img/2.jpg' alt='Logo Head' align='center' width='100%'></img>
+<img src='./img/2.JPG' alt='Logo Head' align='center' width='100%'></img>
 
 
 During training we calculate the accuracy or classification percentage of the model. Assuming only results above 0.70:
 
-<img src='./img/3.jpg' alt='class' align='center' width='70%'></img>
+<img src='./img/3.JPG' alt='class' align='center' width='70%'></img>
 
 We also calculate the learning loss or learning level of the model, in order to predict the correct classification for the data set: 
 
-<img src='./img/4.jpg' alt='Logo Head' align='center' width='100%'></img>
+<img src='./img/4.JPG' alt='Logo Head' align='center' width='100%'></img>
 
 ## Example link:
 
